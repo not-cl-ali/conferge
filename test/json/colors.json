@@ -1,0 +1,26 @@
+[
+  {
+    "settings": [ "master" ],
+    "colors" : {
+      "primary" : ["red", "green", "blue"]
+    }
+  },
+  {
+    "settings": [ "type:extended" ],
+    "colors" : {
+      "blues" : ["cold", "steel"]
+    }
+  },
+  {
+    "settings": [ "mood:excited" ],
+    "colors" : {
+      "reds" : ["bright", "blood", "rose"]
+    }
+  },
+  {
+    "settings": [ "type:extended", "mood:excited" ],
+    "colors" : {
+      "yellows" : ["sunflower"]
+    }
+  }
+]

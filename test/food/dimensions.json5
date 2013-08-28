@@ -1,0 +1,20 @@
+[
+  {
+    "dimensions": [
+      {
+        "country": {
+          "USA": null,
+          "UK": null,
+          "FR": null
+        }
+      },
+      {
+        "meal": {
+          "breakfast": null,
+          "lunch": null,
+          "dinner": null
+        }
+      }
+    ]
+  }
+]

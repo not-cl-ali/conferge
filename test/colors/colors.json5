@@ -1,0 +1,38 @@
+[
+  {
+    /******************
+        MASTER
+    ******************/
+    "settings": [ "master" ],
+    "colors" : {
+      "primary" : ["red", "green", "blue"]
+    }
+  },
+  {
+    /*******************
+        TYPE:EXTENDED
+    *******************/
+    "settings": [ "type:extended" ],
+    "colors" : {
+      "blues" : ["cold", "steel"]
+    }
+  },
+  {
+    /*******************
+        MOOD:EXCITED
+    *******************/
+    "settings": [ "mood:excited" ],
+    "colors" : {
+      "reds" : ["bright", "blood", "rose"]
+    }
+  },
+  {
+    /*******************
+        MOOD:EXCITED & TYPE:EXTENDED
+    *******************/
+    "settings": [ "type:extended", "mood:excited" ],
+    "colors" : {
+      "yellows" : ["sunflower"]
+    }
+  }
+]

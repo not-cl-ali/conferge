@@ -1,0 +1,56 @@
+[
+  {
+    /******************
+        MASTER
+    ******************/
+    "settings": [ "master" ],
+    "drinks" : [
+      "orange juice",
+      "water",
+      "milk"
+    ],
+    "foods" : {
+      "weetabix": "cereal",
+      "pancakes": "stacks",
+      "basic": "bread"
+    }
+  },
+  {
+    /*******************
+        UK
+    *******************/
+    "settings": [ "country:UK" ],
+    // array values replace master
+    "drinks": [
+      "tea"
+    ],
+    // object values merge with master
+    "foods" : {
+      "basic" : "fish and chips"
+    }
+  },
+  {
+    /*******************
+        USA
+    *******************/
+    "settings": [ "country:USA" ],
+    "drinks": [
+      "coffee"
+    ],
+    "foods" : {
+      "basic" : "cheeseburger"
+    }
+  },
+  {
+    /*******************
+        FRANCE
+    *******************/
+    "settings": [ "country:FR" ],
+    "drinks": [
+      "coffee"
+    ],
+    "foods" : {
+      "basic" : "Royale with cheese"
+    }
+  }
+]

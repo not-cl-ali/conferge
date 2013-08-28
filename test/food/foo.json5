@@ -1,0 +1,23 @@
+[
+  {
+    /*******************
+        BREAKFAST
+    *******************/
+    "settings": [ "meal:breakfast" ],
+    "time" : "morning"
+  },
+  {
+    /*******************
+        LUNCH
+    *******************/
+    "settings": [ "meal:lunch" ],
+    "time" : "noon"
+  },
+  {
+    /*******************
+        DINNER
+    *******************/
+    "settings": [ "meal:dinner" ],
+    "time" : "evening"
+  }
+]
