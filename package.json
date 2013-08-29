@@ -1,6 +1,6 @@
 {
   "name": "conferge",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "ycb config file loader, merger, cacher",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,15 @@
   "devDependencies": {
     "mocha": "~1.12.0",
     "chai": "~1.7.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/creativelive/conferge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/creativelive/conferge/issues"
   }
 }
