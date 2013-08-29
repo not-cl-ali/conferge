@@ -1,13 +1,13 @@
 {
   "name": "conferge",
-  "version": "0.0.3",
-  "description": "",
+  "version": "0.0.4",
+  "description": "ycb config file loader, merger, cacher",
   "main": "index.js",
   "scripts": {
     "test": "node_modules/istanbul/lib/cli.js cover -- node_modules/mocha/bin/_mocha test/test.js --colors --reporter spec"
   },
-  "author": "",
-  "license": "BSD",
+  "author": "Matthew Hadley <matthew.hadley@creativelive.com>",
+  "license": "MIT",
   "dependencies": {
     "ycb": "~1.0.5",
     "json5": "~0.2.0"
